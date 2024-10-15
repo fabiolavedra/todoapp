@@ -1,3 +1,4 @@
 Tasks that have been completed:
  -10k steps
  -cleaning
+ -gym
